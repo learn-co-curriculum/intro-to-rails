@@ -1,3 +1,5 @@
+# Intro to Rails
+
 ## Welcome To Rails
 
 Ruby on Rails was created by in 2004 to simplify the app development process. This was achieved by “abstracting” some of the code, which means finding common elements between different parts of code and creating a tool to fulfill this job and that is available to different part of your app. A helper function is an example of code abstraction. That was the idea behind Rails: it handles the repetitive code that is common across apps and enables you to focus on the hard bits.
